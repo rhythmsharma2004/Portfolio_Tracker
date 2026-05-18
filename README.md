@@ -2,8 +2,8 @@
 
 A Python-based portfolio analytics system that tracks, analyzes, and optimizes stock portfolios using real market data and Modern Portfolio Theory.
 
-Built by: Rhythm Sharma | IIT Jodhpur | B.Tech Civil and Infrastructure Engineering   
-Date: Feb 2026
+Built by: Rhythm Sharma | IIT Jodhpur | B.Tech  
+Date: July 2025
 
 ---
 
@@ -124,7 +124,7 @@ The portfolio consists of **5 large-cap Indian equities** selected for **sector 
 ## 👤 Author
 
 Rhythm Sharma
-B.Tech Civil and Infrastructure Engineering 
+B.Tech 
 Indian Institute of Technology, Jodhpur  
 
 📧 [rhythmsharmaiitj@gmail.com]  
